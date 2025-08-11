@@ -14,7 +14,7 @@ This portfolio highlights projects where I transformed raw datasets into actiona
   - Used **window functions** and **CTEs** to uncover country-specific trends  
   - Delivered insights on regions with the highest and lowest life expectancy growth  
 - **Tools:** MySQL, Data Cleaning, Aggregation  
-- **📎 [View Repository](https://github.com/YOURUSERNAME/global-life-expectancy)**  
+- **📎 [View Repository](https://github.com/sxnbx/Global-Life-Expectancy-Analysis)**  
 
 ---
 
