@@ -25,7 +25,7 @@ This portfolio highlights projects where I transformed raw datasets into actiona
   - Identified income inequality patterns and outlier states  
   - Recommended data-driven considerations for policy discussions  
 - **Tools:** MySQL, Tableau  
-- **📎 [View Repository](https://github.com/YOURUSERNAME/us-household-income)**  
+- **📎 [View Repository](https://github.com/sxnbx/US-Household-Income-2021-Analysis)**  
 
 ---
 
