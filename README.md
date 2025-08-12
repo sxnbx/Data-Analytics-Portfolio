@@ -29,16 +29,6 @@ This portfolio highlights projects where I transformed raw datasets into actiona
 
 ---
 
-### **3. Sales Performance Dashboard** *(SQL + Excel + Tableau)*  
-- **Objective:** Create an end-to-end sales tracking and visualization system.  
-- **Key Achievements:**  
-  - Cleaned raw sales data using **SQL** for accuracy  
-  - Leveraged **Excel pivot tables & formulas** for intermediate analysis  
-  - Designed an **interactive Tableau dashboard** for management reporting  
-- **Tools:** SQL, Excel, Tableau  
-- **📎 [View Repository](https://github.com/YOURUSERNAME/sales-dashboard)**  
-
----
 
 ## 🛠 Technical Skills  
 - **Languages & Tools:** SQL (MySQL), Excel  
